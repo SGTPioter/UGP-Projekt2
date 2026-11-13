@@ -1,0 +1,17 @@
+{
+  "variant": "fine_tuning",
+  "test_accuracy": 0.8876,
+  "test_macro_f1": 0.8877154895850363,
+  "test_loss": 0.34364765882492065,
+  "trainable_params": 1676170,
+  "total_params": 2270794,
+  "epochs_run": 17,
+  "best_epoch": 2,
+  "best_val_loss": 0.34274041652679443,
+  "fit_seconds": 2471.7526080999996,
+  "feature_extraction_seconds": 0.0,
+  "total_training_seconds": 2611.8694058,
+  "inference_batch_size": 128,
+  "inference_batch_ms": 334.33829999921727,
+  "inference_ms_per_image": 2.612017968743885
+}

@@ -1,0 +1,17 @@
+{
+  "variant": "cnn",
+  "test_accuracy": 0.8616,
+  "test_macro_f1": 0.8607857194019306,
+  "test_loss": 0.48862865567207336,
+  "trainable_params": 288746,
+  "total_params": 289642,
+  "epochs_run": 53,
+  "best_epoch": 38,
+  "best_val_loss": 0.42799970507621765,
+  "fit_seconds": 3497.7252453,
+  "feature_extraction_seconds": 0.0,
+  "total_training_seconds": 3497.7252453,
+  "inference_batch_size": 128,
+  "inference_batch_ms": 24.615499999981694,
+  "inference_ms_per_image": 0.19230859374985698
+}

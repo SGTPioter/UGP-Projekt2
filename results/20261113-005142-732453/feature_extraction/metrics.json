@@ -1,0 +1,17 @@
+{
+  "variant": "feature_extraction",
+  "test_accuracy": 0.8626,
+  "test_macro_f1": 0.8624607769576766,
+  "test_loss": 0.4008837044239044,
+  "trainable_params": 12810,
+  "total_params": 2270794,
+  "epochs_run": 22,
+  "best_epoch": 7,
+  "best_val_loss": 0.3941033184528351,
+  "fit_seconds": 9.109603299999435,
+  "feature_extraction_seconds": 131.00719440000103,
+  "total_training_seconds": 140.11679770000046,
+  "inference_batch_size": 128,
+  "inference_batch_ms": 322.8256999991572,
+  "inference_ms_per_image": 2.522075781243416
+}

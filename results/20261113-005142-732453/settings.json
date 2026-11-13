@@ -1,0 +1,34 @@
+{
+  "train_per_class": 4500,
+  "val_per_class": 500,
+  "test_per_class": 1000,
+  "epochs": 1000,
+  "fine_tune_epochs": 1000,
+  "batch_size": 128,
+  "seed": 2026,
+  "output": "C:\\Users\\piotr\\OneDrive\\Pulpit\\UGP-Projekt2\\results",
+  "classes": [
+    "samolot",
+    "samochód",
+    "ptak",
+    "kot",
+    "jeleń",
+    "pies",
+    "żaba",
+    "koń",
+    "statek",
+    "ciężarówka"
+  ],
+  "tensorflow": "2.21.0",
+  "keras": "3.12.4",
+  "platform": "Windows-10-10.0.26300-SP0",
+  "devices": [
+    "/physical_device:CPU:0"
+  ],
+  "cnn_learning_rate": 0.001,
+  "head_learning_rate": 0.001,
+  "fine_tune_learning_rate": 0.0001,
+  "fine_tune_from": "block_13_expand",
+  "early_stopping_patience": 15,
+  "reduce_lr_patience": 4
+}

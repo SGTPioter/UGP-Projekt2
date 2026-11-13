@@ -1,0 +1,75 @@
+{
+  "samolot": {
+    "precision": 0.9467723669309174,
+    "recall": 0.836,
+    "f1-score": 0.8879447689856612,
+    "support": 1000.0
+  },
+  "samochód": {
+    "precision": 0.9193857965451055,
+    "recall": 0.958,
+    "f1-score": 0.9382957884427032,
+    "support": 1000.0
+  },
+  "ptak": {
+    "precision": 0.8528584817244611,
+    "recall": 0.91,
+    "f1-score": 0.8805031446540881,
+    "support": 1000.0
+  },
+  "kot": {
+    "precision": 0.7765151515151515,
+    "recall": 0.82,
+    "f1-score": 0.7976653696498055,
+    "support": 1000.0
+  },
+  "jeleń": {
+    "precision": 0.8507751937984496,
+    "recall": 0.878,
+    "f1-score": 0.8641732283464567,
+    "support": 1000.0
+  },
+  "pies": {
+    "precision": 0.8492871690427699,
+    "recall": 0.834,
+    "f1-score": 0.8415741675075681,
+    "support": 1000.0
+  },
+  "żaba": {
+    "precision": 0.8878591288229842,
+    "recall": 0.958,
+    "f1-score": 0.9215969215969216,
+    "support": 1000.0
+  },
+  "koń": {
+    "precision": 0.9765258215962441,
+    "recall": 0.832,
+    "f1-score": 0.8984881209503239,
+    "support": 1000.0
+  },
+  "statek": {
+    "precision": 0.8951841359773371,
+    "recall": 0.948,
+    "f1-score": 0.9208353569694027,
+    "support": 1000.0
+  },
+  "ciężarówka": {
+    "precision": 0.9514767932489452,
+    "recall": 0.902,
+    "f1-score": 0.9260780287474333,
+    "support": 1000.0
+  },
+  "accuracy": 0.8876,
+  "macro avg": {
+    "precision": 0.8906640039202365,
+    "recall": 0.8876,
+    "f1-score": 0.8877154895850363,
+    "support": 10000.0
+  },
+  "weighted avg": {
+    "precision": 0.8906640039202366,
+    "recall": 0.8876,
+    "f1-score": 0.8877154895850364,
+    "support": 10000.0
+  }
+}
